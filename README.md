@@ -1,9 +1,5 @@
-## Cách đặt tên file 
+## Cách đặt tên file
 
-`VinaseedDaiLy.ipa`
+`DMSNhanVien.apk`
 
-`VinaseedDaiLy.apk`
-
-`VinaseedNhanVien.apk`
-
-`VinaseedNhanVien.ipa`
+`DMSNhanVien.ipa`
