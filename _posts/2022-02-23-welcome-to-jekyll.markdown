@@ -10,6 +10,7 @@ categories: jekyll update
 
 ## Ralli Electrician
 
+#### Link tải ứng dụng
 <div class="d-flex justify-content-center">
 <a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/maivtt14/apps/construction-android/distribution_groups/production">
   Android
@@ -19,4 +20,10 @@ categories: jekyll update
   iOS
 </a>
 </div>
+
+#### Hướng dẫn tải và cài đặt ứng dụng
+<a role="button" href="https://drive.google.com/file/d/1wuHUFUfxrrxF7BFHvP_NM_L8B_R-uyek/view?usp=drive_link">
+ HƯỚNG DẪN CÀI ĐẶT ỨNG DỤNG RALLI ELECTRICIAN
+</a>
+
 
